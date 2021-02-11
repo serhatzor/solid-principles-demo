@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesDemo", "SolidPrinciplesDemo\SolidPrinciplesDemo.csproj", "{A1CBB76B-0CF4-40D9-94E9-F28BD4DC0C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidCar", "SolidCar\SolidCar.csproj", "{B240E001-58CD-4EE5-944F-790DEB165A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CBB76B-0CF4-40D9-94E9-F28BD4DC0C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CBB76B-0CF4-40D9-94E9-F28BD4DC0C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CBB76B-0CF4-40D9-94E9-F28BD4DC0C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CBB76B-0CF4-40D9-94E9-F28BD4DC0C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B240E001-58CD-4EE5-944F-790DEB165A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B240E001-58CD-4EE5-944F-790DEB165A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B240E001-58CD-4EE5-944F-790DEB165A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B240E001-58CD-4EE5-944F-790DEB165A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1FE8C43-C644-4946-9EE1-92F549A3D43C}
+	EndGlobalSection
+EndGlobal
